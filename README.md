@@ -6,6 +6,8 @@
 
 A tkinter desktop tool for Windows: preview the GPU / CPU impact before loading a local Ollama model, load the best fit for your hardware, and verify it actually shows up in `ollama ps`.
 
+![界面截图](docs/screenshot.png)
+
 ## 环境要求
 
 - Windows 系统
