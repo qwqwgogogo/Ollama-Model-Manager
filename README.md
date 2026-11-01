@@ -8,6 +8,12 @@ A tkinter desktop tool for Windows: preview the GPU / CPU impact before loading 
 
 ![界面截图](docs/screenshot.png)
 
+## 下载
+
+不想装 Python：到 [Releases](https://github.com/qwqwgogogo/Ollama-Model-Manager/releases/latest) 下载 `OllamaModelManager.exe`，双击运行即可（Windows x64 单文件，无需安装）。
+
+> exe 没有代码签名，首次运行 Windows SmartScreen 可能提示「已保护你的电脑」——点「更多信息」→「仍要运行」就好。介意的话照下面的方式跑源码。
+
 ## 环境要求
 
 - Windows 系统
